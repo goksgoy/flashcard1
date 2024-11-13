@@ -14,23 +14,20 @@ const vocabulary = [
     return vocabulary[randomIndex];
   }
   
-  function showWord() {
+  function nextVocabulary() {
+    // Get a random vocabulary and display the word
     currentVocabulary = getRandomVocabulary();
     document.getElementById("word").textContent = currentVocabulary.word;
-    document.getElementById("show-word").disabled = true;
+  
+    // Enable the "Show Meaning" button
     document.getElementById("show-meaning").disabled = false;
-    document.getElementById("next-vocabulary").disabled = false;
   }
   
   function showMeaning() {
+    // Show the meaning of the current vocabulary
     document.getElementById("word").textContent = currentVocabulary.meaning;
-    document.getElementById("show-meaning").disabled = true;
-  }
   
-  function nextVocabulary() {
-    document.getElementById("show-word").disabled = false;
+    // Disable the "Show Meaning" button after showing the meaning
     document.getElementById("show-meaning").disabled = true;
-    document.getElementById("next-vocabulary").disabled = true;
-    document.getElementById("word").textContent = "Click 'Show Word' to start!";
   }
   
