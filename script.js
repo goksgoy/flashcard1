@@ -53,6 +53,26 @@ const vocabulary = [
     { word: "走る", meaning: "はしる" },{ word: "涼しい", meaning: "すずしい" },{ word: "寒い", meaning: "さむい" },{ word: "京都", meaning: "きょうと" },
     { word: "お寺", meaning: "おてら" },{ word: "有名", meaning: "ゆうめい" },{ word: "夏", meaning: "なつ" },{ word: "果物", meaning: "くだもの" },
     { word: "重末", meaning: "じゅうまつ" },{ word: "旅行", meaning: "りょこう" },{ word: "温泉", meaning: "おんせん" },{ word: "庭", meaning: "にわ" },
+    { word: "部屋", meaning: "へや" },{ word: "箱", meaning: "ばこ" },{ word: "代表的", meaning: "だいひょうてき" },{ word: "失礼", meaning: "しつれい" },
+    { word: "態度", meaning: "たいど" },{ word: "怒る", meaning: "おこる" },{ word: "富士山", meaning: "ふじさん" },{ word: "像", meaning: "ぞう" },
+    { word: "動物", meaning: "どうぶつ" },{ word: "頭", meaning: "あたま" },{ word: "重い", meaning: "おもい" },{ word: "頼む", meaning: "たのむ" },
+    { word: "妻", meaning: "つま" },{ word: "大家", meaning: "おおや" },{ word: "玄関", meaning: "げんかん" },{ word: "自転車", meaning: "じてんしゃ" },
+    { word: "置く", meaning: "おく" },{ word: "資料", meaning: "しりょう" },{ word: "運転", meaning: "うんてん" },{ word: "祖父", meaning: "そふ" },
+    { word: "孫", meaning: "まご" },{ word: "商品", meaning: "しょうひん" },{ word: "静か", meaning: "しずか" },{ word: "管理", meaning: "かんり" },
+    { word: "夜", meaning: "よる" },{ word: "騒ぐ", meaning: "さわぐ" },{ word: "夜遅く", meaning: "よるおそく" },{ word: "眠い", meaning: "ねむい" },
+    { word: "事故", meaning: "じこ" },{ word: "影響", meaning: "えいきょう" },{ word: "各線", meaning: "かくせん" },{ word: "地域", meaning: "ちいき" },
+    { word: "開放", meaning: "かいほう" },{ word: "全体", meaning: "ぜんたい" },{ word: "辞書", meaning: "じしょ" },{ word: "簡単", meaning: "かんたん" },
+    { word: "確かに", meaning: "たしかに" },{ word: "不自由", meaning: "ふじゆう" },{ word: "心配", meaning: "しんぱい" },{ word: "調べる", meaning: "しらべる" },
+    { word: "必要", meaning: "ひつよう" },{ word: "売り切れる", meaning: "うりきれる" },{ word: "全然", meaning: "ぜんぜん" },{ word: "顔色", meaning: "かおいろ" },
+    { word: "自信", meaning: "じしん" },{ word: "昨夜", meaning: "さくや" },{ word: "片付ける", meaning: "かたづける" },{ word: "相談", meaning: "そうだん" },
+    { word: "留学", meaning: "りゅうがく" },{ word: "決める", meaning: "きめる" },{ word: "携帯", meaning: "けいたい" },{ word: "約束", meaning: "やくそく" },
+    { word: "出発", meaning: "しゅっぱつ" },{ word: "立場", meaning: "たちば" },{ word: "代表", meaning: "だいひょう" },{ word: "試合", meaning: "しあい" },
+    { word: "女優", meaning: "じょゆう" },{ word: "綺麗", meaning: "きれい" },{ word: "飛行機", meaning: "ひこうき" },{ word: "お菓子", meaning: "おかし" },
+    { word: "お土産", meaning: "おみやげ" },{ word: "最適", meaning: "さいてき" },{ word: "理由", meaning: "りゆう" },{ word: "飼う", meaning: "かう" },
+    { word: "責任", meaning: "せきにん" },{ word: "飼い主", meaning: "かいぬし" },{ word: "無断", meaning: "むだん" },{ word: "絶対", meaning: "ぜったい" },
+    { word: "時代", meaning: "じだい" },{ word: "通う", meaning: "かよう" },{ word: "普通", meaning: "ふつう" },{ word: "叱る", meaning: "しかる" },
+    { word: "反対", meaning: "はんたい" },{ word: "用事", meaning: "ようじ" },{ word: "手紙", meaning: "てがみ" },{ word: "散歩", meaning: "さんぽ" },
+    { word: "袋", meaning: "ふくろ" }
     
   ];
   
