@@ -1,10 +1,12 @@
 // Vocabulary List: You can add more words and meanings
 const vocabulary = [
-    { word: "Serendipity", meaning: "The occurrence of events by chance in a happy or beneficial way." },
-    { word: "Euphoria", meaning: "A feeling or state of intense excitement and happiness." },
-    { word: "Ephemeral", meaning: "Lasting for a very short time." },
-    { word: "Cacophony", meaning: "A harsh, discordant mixture of sounds." },
-    { word: "Limerence", meaning: "The state of being infatuated or obsessed with another person." }
+    { word: "説明", meaning: "せつめい" },
+    { word: "書く", meaning: "かく" },
+    { word: "筆者", meaning: "ひっしゃ" },
+    { word: "入学式", meaning: "にゅうがくしき" },
+    { word: "世界", meaning: "せかい" },
+    { word: "昔", meaning: "むかし" },
+    { word: "友達", meaning: "ともだち" },{ word: "赤い", meaning: "あかい" },{ word: "抱く", meaning: "だく" },{ word: "泣く", meaning: "なく" },
   ];
   
   let currentVocabulary = {};
