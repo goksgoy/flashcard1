@@ -72,7 +72,11 @@ const vocabulary = [
     { word: "責任", meaning: "せきにん" },{ word: "飼い主", meaning: "かいぬし" },{ word: "無断", meaning: "むだん" },{ word: "絶対", meaning: "ぜったい" },
     { word: "時代", meaning: "じだい" },{ word: "通う", meaning: "かよう" },{ word: "普通", meaning: "ふつう" },{ word: "叱る", meaning: "しかる" },
     { word: "反対", meaning: "はんたい" },{ word: "用事", meaning: "ようじ" },{ word: "手紙", meaning: "てがみ" },{ word: "散歩", meaning: "さんぽ" },
-    { word: "袋", meaning: "ふくろ" }
+    { word: "袋", meaning: "ふくろ" },
+    { word: "強い", meaning: "つよい" },{ word: "同時", meaning: "どうじ" },{ word: "最中", meaning: "さいちゅう" },{ word: "会議", meaning: "かいぎ" },
+    { word: "隣", meaning: "となり" },{ word: "届く", meaning: "とどく" },{ word: "番組", meaning: "ばんぐみ" },{ word: "歌", meaning: "うた" },
+    { word: "時刻表", meaning: "じこくひょう" },{ word: "道", meaning: "みち" },{ word: "通る", meaning: "とおる" },{ word: "迷う", meaning: "まよう" },
+    { word: "妹", meaning: "いもうと" },{ word: "脱ぐ", meaning: "ぬぐ" },{ word: "印象", meaning: "いんしょう" }
     
   ];
   
