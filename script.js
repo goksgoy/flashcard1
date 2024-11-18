@@ -112,6 +112,6 @@ const vocabulary = [
   
     // Disable the "Show Vocab" button and enable the "Show Meaning" button
     document.getElementById("show-vocab").style.display = "none";
-    document.getElementById("show-meaning").disabled = false;
+    document.getElementById("show-meaning").style.display = "inline";
   }
   
